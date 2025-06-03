@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts: 
+  - caption:  Motion in GR
+    - file: ./nb/part_01/motion_in_gr.ipynb
+  - caption:  Differential Geometry in GR
+
+  - caption:  Applications of GR
